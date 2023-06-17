@@ -38,7 +38,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = "https://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Pedersen_Detection_of_Marine_Animals_in_a_New_Underwater_Dataset_with_CVPRW_2019_paper.pdf"
 CITATION_URL: Optional[str] = "https://universe.roboflow.com/brad-dwyer/brackish-underwater"
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Aalborg University, Denmark"
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = "Aalborg University, Denmark"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://vbn.aau.dk/en/projects/marine-analytics-using-computer-vision"
 TAGS: List[str] = None
 
 ##################################

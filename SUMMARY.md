@@ -2,7 +2,7 @@
 
 The dataset consists of 14674 images with 35565 labeled objects belonging to 6 different classes including *starfish*, *crab*, *fish*, and other: *small_fish*, *jellyfish*, and *shrimp*.
 
-Each image in the Brackish Underwater dataset has bounding box annotations. There are 2230 (15% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *test* (1468 images), *valid* (1467 images), and *train* (11739 images). The dataset was released in 2022 by the [Aalborg University, Denmark](Aalborg University, Denmark).
+Each image in the Brackish Underwater dataset has bounding box annotations. There are 2230 (15% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *test* (1468 images), *valid* (1467 images), and *train* (11739 images). The dataset was released in 2022 by the [Aalborg University, Denmark](https://vbn.aau.dk/en/projects/marine-analytics-using-computer-vision).
 
 Here is the visualized example grid with annotations:
 

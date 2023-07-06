@@ -1,6 +1,6 @@
 Dataset **Brackish Underwater** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervise.ly/supervisely-supervisely-assets-public/teams_storage/U/z/BA/ZNSr9eNGRH1By3QSq6xuDsLJNhAhJWpXk1CG4iwldvhZr080DOXhuGgMwMBAF8j0cpRIW5C1N5jcPLu8RTjYpEuFk9FY4ZbzQfHIBpSkZiz0yJBDBW6gvnnM9i2P.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/w/d/tC/Vl8mRPUdOz2KQungVSMV7Ib1UuNPuOjqFpwoZDfRDfk97Olfns4tyZur6jOyxqBQ0P1gmtPiIX7bAhFazVluvkoELBfqLGpUUFbfxLODtPyx9XxTeirMyYaBHYqH.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
